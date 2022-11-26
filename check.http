@@ -5,8 +5,8 @@ POST http://localhost:3000/players/
 Content-Type: application/json
 
 {
- "player_name":"Vishal",
- "jersey_number":17,
+ "playerName":"Vishal",
+ "jerseyNumber":17,
  "role":"Bowler"
 }
 
@@ -18,8 +18,8 @@ put http://localhost:3000/players/5/
 Content-Type: application/json
 
 {
- "player_name":"khajarasool",
- "jersey_number":22,
+ "playerName":"khajarasool",
+ "jerseyNumber":22,
  "role":"Bowler"
 }
 
